@@ -1,0 +1,5 @@
+Hello world
+Welcome to UNIX programming
+This is a test file
+Learning unix is fun
+UNIX is a powerful operating system

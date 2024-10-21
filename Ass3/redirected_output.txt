@@ -1,0 +1,2 @@
+This message is redirected to the file using dup2().
+Verifying the content of 'redirected_output.txt':
